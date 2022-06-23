@@ -117,10 +117,10 @@ img {
     list-style: none;
 }
 .hero-section__card{
-    margin-right: 5px;
+    margin-right: 10px;
     margin-bottom: 70px;
     padding-bottom: 50px;
-    width: 315px;
+    width: 300px;
     border-radius: 5px;
     overflow: hidden;
     background-color: #2B3844;
